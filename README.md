@@ -1,1 +1,2 @@
-# bcsf21m517project
+This is the inventory management system which has the capacity to store the inventory items and the member of the facilty.this is the program which is done using file handling in c++ and the use of nested structure are being applied here. the main motive of this program is to store the inventory items and then you can carry out these fuction are given below;
+ADD INVENTORY ,VIEW ITEM,ASSIGN ID NO,ITEM COUNT,ASSIGN TO FACILITY MEMBER,SHOW THE ASSIGNED MEMBERS,RETERIVE THE ITEMS .where the file "project.txt" is used to hold the data in binary format.
